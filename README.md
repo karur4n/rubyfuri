@@ -4,7 +4,7 @@
 
 [テキスト解析:ルビ振り - Yahoo!デベロッパーネットワーク](http://developer.yahoo.co.jp/webapi/jlp/furigana/v1/furigana.html) を使用します。
 
-[Issue #2](https://github.com/karur4n/rubyfuri/issues/2) 重大なバグがあるので、 v0.1.0 を使うにはご注意を。
+:warning: [Issue #2](https://github.com/karur4n/rubyfuri/issues/2) 重大なバグがあるので、 v0.1.0 を使うにはご注意を。
 
 ## Installation
 
