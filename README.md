@@ -4,6 +4,8 @@
 
 [テキスト解析:ルビ振り - Yahoo!デベロッパーネットワーク](http://developer.yahoo.co.jp/webapi/jlp/furigana/v1/furigana.html) を使用します。
 
+#2 バグがあるので、 v0.1.0 を使うにはご注意を。
+
 ## Installation
 
 Add this line to your application's Gemfile:
